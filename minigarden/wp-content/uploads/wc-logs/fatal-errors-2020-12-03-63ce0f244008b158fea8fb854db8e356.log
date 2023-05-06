@@ -1,0 +1,2 @@
+2020-12-03T15:59:12+00:00 CRITICAL Out of memory (allocated 31457280) (tried to allocate 28672 bytes) in C:\xampp\htdocs\minigarden\wp-content\plugins\wpforms-lite\src\Integrations\Gutenberg\FormSelector.php on line 135
+
